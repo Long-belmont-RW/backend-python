@@ -67,9 +67,10 @@ Make sure you're inside the `0x01-python_async_function` directory and run:
 ./2-main.py
 ./3-main.py
 ./4-main.py
-👨🏽‍💻 Author
-Gabriel Dakogol
-Computer Science Student, American University of Nigeria
-GitHub: Long-belmont-RW
+
+### 👤 Author
+
+**Long-belmont-RW**  
+GitHub: [@Long-belmont-RW](https://github.com/Long-belmont-RW)
 
 
