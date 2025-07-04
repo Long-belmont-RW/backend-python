@@ -57,16 +57,6 @@ This project is a set of exercises to practice asynchronous programming in Pytho
 
 ---
 
-## 🚀 How to Run
-
-Make sure you're inside the `0x01-python_async_function` directory and run:
-
-```bash
-./0-main.py
-./1-main.py
-./2-main.py
-./3-main.py
-./4-main.py
 
 ### 👤 Author
 
