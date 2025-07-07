@@ -106,7 +106,7 @@ python3 2-main_async-measure_runtime.py
 
 ## 📝 Author
 
-Gabriel Dakogol  
+Longwul Gabriel Dakogol  
 Project: `python_async_comprehension`  
 Part of: `backend-python` repository
 
